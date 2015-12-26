@@ -1,0 +1,49 @@
+.acme-title {
+	margin-left: 340px;
+}
+
+.optin-container {
+	margin-top: 30px;
+}
+
+.brand-logo {
+	background-image: url(kungfupanda.jpg);
+	width: 220px;
+	height: 700px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 20px;
+	float: left;
+}
+
+form {
+	width: 400px;
+	display: inline-block;
+	margin: 20px 0 0 30px;
+}
+
+.fname {
+	margin-right: 5px;
+}
+
+form input[type="button"]{
+	margin: 15px 0;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #F5F5F5;
+}
+
+.container {
+	width: auto;
+	max-width: 680px;
+	padding: 0 15px;
+}
+
+.text-muted {
+	margin: 20px 0;
+}
